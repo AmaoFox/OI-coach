@@ -1,0 +1,23 @@
+/* style.css */
+/* 基本布局和美化 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.student {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+#calendar,
+#students,
+#competition {
+  margin: 20px 0;
+}
